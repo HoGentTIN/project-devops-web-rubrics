@@ -1,5 +1,7 @@
 # Rubrics DevOps - Web
 > English version below
+
+
 Hieronder vinden jullie de Rubrics voor het Web gedeelte van het DevOps project. 
 Enkel geslaagd indien Backend en Frontend **minimum** bekwaam
 
